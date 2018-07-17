@@ -1,1 +1,1 @@
-# Dice Roller for Android
+# Dice-Roller
